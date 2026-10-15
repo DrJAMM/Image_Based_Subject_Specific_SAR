@@ -16,6 +16,9 @@ Martinez JA, Zanovello U, Arduino A, Hu HH, Moulin K, Ogier SE, Bottauscio O, Zi
 *Magnetic Resonance in Medicine*. 2025 May 27.  
 DOI: <a href="https://doi.org/10.1002/mrm.30547" target="_blank" rel="noopener noreferrer">https://doi.org/10.1002/mrm.30547</a>
 
+Software DOI: [10.5281/zenodo.19995526](https://doi.org/10.5281/zenodo.19995526)
+
+
 
 ---
 
